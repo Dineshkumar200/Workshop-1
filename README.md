@@ -98,8 +98,6 @@ xml
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
-## output
 #![Screenshot (73)](https://user-images.githubusercontent.com/75235789/165437744-0eba2fb1-7a61-4cf5-9bc8-b56c15089174.png)
 
 
